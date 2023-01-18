@@ -21,9 +21,12 @@
 # systemctl enable zabbix-agent
 ```
 *Приложите скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу.*
+![image](https://user-images.githubusercontent.com/106932460/213202551-785a52d6-57dc-444e-b2a3-4fa9091a090f.png)
 *Приложите скриншот лога zabbix agent, где видно, что он работает с сервером.*
+![image](https://user-images.githubusercontent.com/106932460/213204234-3c9bd54a-970e-4157-a829-d06c751c8fe6.png)
 *Приложите скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.*
-*Приложите текст использованных команд в GitHub.*
+![image](https://user-images.githubusercontent.com/106932460/213202776-6dc15fb0-425f-4b0c-9dbe-0009ff14bbf4.png)
+![image](https://user-images.githubusercontent.com/106932460/213202691-f06ab47d-a9f6-45ed-8688-9458ddbd6f9c.png)
 
 ---
 ## Задание со звёздочкой*
@@ -35,3 +38,5 @@
 Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
 
 *Приложите скриншот раздела Latest Data, где видно свободное место на диске C:*
+######???
+![image](https://user-images.githubusercontent.com/106932460/213231871-cc799e85-2b61-4701-aa42-568f24e02c03.png)
