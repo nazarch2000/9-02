@@ -38,5 +38,7 @@
 Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
 
 *Приложите скриншот раздела Latest Data, где видно свободное место на диске C:*
+
 ######???
+
 ![image](https://user-images.githubusercontent.com/106932460/213231871-cc799e85-2b61-4701-aa42-568f24e02c03.png)
