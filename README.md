@@ -3,9 +3,9 @@
 ### Задание 1 
 
 Установите Zabbix Server с веб-интерфейсом.
+![image](https://user-images.githubusercontent.com/106932460/213167662-17f1ab7a-51d6-4461-b3b6-a2c71dcecb35.png)
+![image](https://user-images.githubusercontent.com/106932460/213161694-cd1ab9ef-5123-45eb-b21f-994b06eeb0cb.png)
 
-*Приложите скриншот авторизации в админке.*
-*Приложите текст использованных команд в GitHub.*
 
 ---
 
