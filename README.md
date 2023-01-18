@@ -5,7 +5,7 @@
 Установите Zabbix Server с веб-интерфейсом.
 ![image](https://user-images.githubusercontent.com/106932460/213180154-32227686-49ef-451a-9aa8-4a96d5073960.png)
 ![image](https://user-images.githubusercontent.com/106932460/213161694-cd1ab9ef-5123-45eb-b21f-994b06eeb0cb.png)
-
+Так как Zabbix поддерижвает pgsql от 13, то устанавливал его из репозитория https://www.postgresql.org/media/keys/ACCC4CF8.asc
 
 ---
 
